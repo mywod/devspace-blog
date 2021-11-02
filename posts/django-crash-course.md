@@ -10,6 +10,8 @@ author_image: 'https://randomuser.me/api/portraits/men/12.jpg'
 
 <!-- Markdown generator - https://jaspervdj.be/lorem-markdownum/ -->
 
+{% vimeo 593819106 %}
+<iframe src="https://player.vimeo.com/video/593819106" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
 haec praepes [partes epulae](http://cui.com/), in egisse de. Caecisque ter
 manus. Munere in exhalat, ferre sed [habe quaeque saepe](http://ne.org/fretum)
